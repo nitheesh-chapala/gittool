@@ -1,1 +1,1 @@
-print("check")
+print(5)
